@@ -9,3 +9,5 @@ For example:
 + Task 3
 
 Most labs will be more complicated. 
+
+@lab.Activity(DownloadFiles)
