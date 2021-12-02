@@ -1,12 +1,10 @@
-# Instructions for a Lab from GitHub
+# Instructions for a Lab Profile from GitHub
 
-## There could be some tasks.
+These instructions come from GitHub. 
 
-For example:
+Go take a look at the "Edit Instructions" button.
 
-+ Task 1
-+ Task 2
-+ Task 3
+Now, follow the link raw GitHub link. This is different than the link to the GitHub repository. You can use clues to find the GitHub repository. 
 
-Most labs will be more complicated. 
+
 
