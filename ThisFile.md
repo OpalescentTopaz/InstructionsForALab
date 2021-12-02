@@ -10,4 +10,3 @@ For example:
 
 Most labs will be more complicated. 
 
-@lab.Activity(DownloadFiles)
